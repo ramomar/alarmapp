@@ -22,7 +22,7 @@ The project is contained in many repos.
 
 ## Preview
 
-### App preview
+### Admin preview
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10622989/44741599-2d4a7880-aac3-11e8-9959-4d49ef1ab0e5.gif"></a>
 </p>
