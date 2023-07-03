@@ -39,6 +39,7 @@ The project is contained in many repos.
 |Repository name | Description |
 |----------------|-------------|
 | [Alarmapp Admin](https://github.com/ramomar/alarmapp-admin) | A control panel for the system made with Ionic. |
+| [Alarmapp PWA](https://github.com/ramomar/alarmapp-pwa) | A simpler and modern control panel for the system made with Flutter. |
 | [Alarmapp Firmware](https://github.com/ramomar/alarmapp-firmware) | Firmware for the Particle Photon. |
 | [Alarmapp Schematics](https://github.com/ramomar/alarmapp-schematics) | Schematic for interfacing the old alarm system with the Particle Photon. |
 | [Alarmapp Functions](https://github.com/ramomar/alarmapp-functions) | Cloud functions for the system. E.g. Push Notifications. |
