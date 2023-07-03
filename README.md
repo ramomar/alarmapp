@@ -10,6 +10,8 @@ You can read a nice blog post [here](https://medium.com/@ramomar/reviviendo-un-s
 
 ## Features
 
+### Ionic control panel
+
 - [Realtime system state updates (e.g., a window opens, a door closes, etc.)](https://github.com/ramomar/alarmapp-admin/issues/1#issuecomment-416682576).
 - [Push notifications when system gets breached or is in panic mode](https://user-images.githubusercontent.com/10622989/44742820-718b4800-aac6-11e8-809b-cb4da787492f.png).
 - Sentry for error reporting.
@@ -31,6 +33,7 @@ You can see more UI screenshots [here](https://github.com/ramomar/alarmapp-admin
 
 - iOS.
 - Android.
+- Web.
 
 ## Project structure
 
